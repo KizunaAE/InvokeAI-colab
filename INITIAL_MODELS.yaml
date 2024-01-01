@@ -77,43 +77,43 @@ sd-1/controlnet/canny:
    recommended: True
 sd-1/controlnet/inpaint:
    repo_id: lllyasviel/control_v11p_sd15_inpaint
-   recommended: False
+   recommended: True
 sd-1/controlnet/mlsd:
    repo_id: lllyasviel/control_v11p_sd15_mlsd
-   recommended: False
+   recommended: True
 sd-1/controlnet/depth:
    repo_id: lllyasviel/control_v11f1p_sd15_depth
    recommended: True
 sd-1/controlnet/normal_bae:
    repo_id: lllyasviel/control_v11p_sd15_normalbae
-   recommended: False
+   recommended: True
 sd-1/controlnet/seg:
    repo_id: lllyasviel/control_v11p_sd15_seg
-   recommended: False
+   recommended: True
 sd-1/controlnet/lineart:
    repo_id: lllyasviel/control_v11p_sd15_lineart
-   recommended: False
+   recommended: True
 sd-1/controlnet/lineart_anime:
    repo_id: lllyasviel/control_v11p_sd15s2_lineart_anime
-   recommended: False
+   recommended: True
 sd-1/controlnet/openpose:
    repo_id: lllyasviel/control_v11p_sd15_openpose
-   recommended: False
+   recommended: True
 sd-1/controlnet/scribble:
    repo_id: lllyasviel/control_v11p_sd15_scribble
-   recommended: False
+   recommended: True
 sd-1/controlnet/softedge:
    repo_id: lllyasviel/control_v11p_sd15_softedge
-   recommended: False
+   recommended: True
 sd-1/controlnet/shuffle:
    repo_id: lllyasviel/control_v11e_sd15_shuffle
-   recommended: False
+   recommended: True
 sd-1/controlnet/tile:
    repo_id: lllyasviel/control_v11f1e_sd15_tile
-   recommended: False
+   recommended: True
 sd-1/controlnet/ip2p:
    repo_id: lllyasviel/control_v11e_sd15_ip2p
-   recommended: False
+   recommended: True
 sd-1/embedding/EasyNegative:
    path: https://huggingface.co/embed/EasyNegative/resolve/main/EasyNegative.safetensors
    recommended: True
